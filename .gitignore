@@ -8,9 +8,5 @@ __pycache__/
 # Ignore VS Code settings
 .vscode/
 
-# Ignore image outputs (optional)
-stego.png
-decoded_message.png
-
 # Ignore environment files
 .env
